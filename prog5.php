@@ -5,7 +5,9 @@
 
     echo '<p align=center> Isto é um teste <br>
     
-    Estou aprendendo a escrever textos com aspas simples! TESTE DE NOVO</p>';
+    Estou aprendendo a escrever textos com aspas simples!</p>';
+
+    echo '<p align=center> Coloquei quebras de linha!</p>';
 
 ?>
 </body>

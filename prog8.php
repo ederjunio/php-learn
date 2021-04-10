@@ -2,38 +2,15 @@
 <body>
 <?php
 
-	echo 'PHP 8 arquivo Prog8.php <br>';
-	echo 'Mais um teste..... <br>'; 
-	echo 'Mais um teste..... <br>'; 
-	echo 'Mais um teste..... <br>'; 
+	echo "Welcome to the John's Page.";
 
-	echo '<br>';
+	echo "<br>";
 
-	echo 'PHP 8 arquivo Prog8.php <br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
+	echo "Estou colocando \"aspas duplas\" dentro do texto em php.";
 
-	echo '<br>';
+	echo "<br>";
 
-	echo 'PHP 8 arquivo Prog8.php<br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
-
-	echo '<br>';
-
-	echo 'PHP 8 arquivo Prog8.php <br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
-
-	echo '<br>';
-
-	echo 'PHP 8 arquivo Prog8.php<br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
-	echo 'Mais um teste.....<br>'; 
+	echo `ls -l *.html`;
 	
 ?>
 </body>
