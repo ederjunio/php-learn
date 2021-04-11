@@ -10,7 +10,7 @@
 
 	echo "<br>";
 
-	echo `ls -l *.html`;
+	
 	
 ?>
 </body>
