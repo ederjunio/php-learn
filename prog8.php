@@ -10,6 +10,8 @@
 
 	echo "<br>";
 
+	echo "Voltando aos testes....";
+
 	
 	
 ?>
